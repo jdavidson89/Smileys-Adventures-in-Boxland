@@ -1,7 +1,7 @@
 # Smileys-Adventures-in-Boxland
 This is my first ever attempt at making a 3D Game using the Godot Game
 Engine,  It is a simple game I am uploading merely for historical reference
-for myself, I doubt it will be on interest to anyone but feel free to have a
+for myself, I doubt it will be of interest to anyone but feel free to have a
 go, I will probably add releases with it compiled for various systems.
 
 The Model Smiley.glb was made by me in blender along with all png files made
